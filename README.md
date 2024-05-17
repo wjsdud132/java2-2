@@ -1,5 +1,20 @@
 # 전진영 202130129
 
+## 5월 17일
+수업 내용
+
+### 컨테이너와 배치, 배치관리자 개념
+* 컨테이너마다 하나의 배치 관리자 존재
+
+* FlowLayout
+    * 생성자 : FlowLayout(align, hGap, vGap)
+* BorderLayout
+    * 생성자 : BorderLayout(hGap, vGap)
+* GridLayout
+    * 생성자 : GridLayout(rows, cols)
+* CardLayout
+    * 생성자 : CardLayout()
+
 ## 4월 19일
 수업 내용
 
